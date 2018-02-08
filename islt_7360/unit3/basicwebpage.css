@@ -1,4 +1,13 @@
 body{
     background-color: #FFCCFF;
-    padding: 5px; 
+    padding: 8px; 
+}
+
+h1{
+    font-family: Arial;
+    text-align:center; 
+}
+
+footer{
+    line-height: 1px;
 }
