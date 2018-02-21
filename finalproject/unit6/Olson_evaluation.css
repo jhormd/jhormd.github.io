@@ -1,0 +1,42 @@
+body{
+    text-align: left;
+    background-color: honeydew;
+    padding:1em; 
+    font-family: Arial;
+}
+
+h1{
+    font-family:serif;
+    text-align:center; 
+    color: blueviolet;
+}
+
+table{
+    border-collapse:collapse;
+    width: 25%;
+    text-align: center;
+    vertical-align: center;
+}
+
+table, th, td{
+border: 1px solid black;
+padding:1px;
+}
+
+tr:hover{
+    background-color: rgb(250, 185, 236);
+}
+
+a {
+    color:blueviolet;
+}
+
+a:visited {
+    color:rgb(250, 185, 236);
+}
+
+footer{
+    line-height: 1px;
+    text-align: left;
+    font-size: 10px; 
+}
