@@ -28,6 +28,38 @@ body{
     font-size: 20px
 }
 
+table{
+    border-collapse:collapse;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    vertical-align: center;
+    align-self: center;
+}
+
+table, th, td{
+border: 1px solid black;
+padding:3px;
+position: relative;
+}
+
+th{
+    background-color: rgb(253, 112, 112);
+}
+
+tr:hover{
+    background-color: rgb(253, 112, 112);
+}
+
+a {
+    color:black;
+    text-decoration: none;
+}
+
+a:visited {
+    color:#e60000;
+}
+
 h1{
     font-family: Arial;
     text-align:center; 
